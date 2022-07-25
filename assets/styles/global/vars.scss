@@ -1,0 +1,32 @@
+// Основные Брейкпоинты
+
+$MOBILE: 'screen and (max-width: 767px)';
+$TABLET: 'screen and (min-width: 768px) and (max-width: 1023px)';
+$MOBILE_TABLET: 'screen and (max-width: 1023px)';
+$TABLET_DESKTOP: 'screen and (min-width: 768px)';
+$DESKTOP: 'screen and (min-width: 1024px)';
+$DESKTOP_LARGE: 'screen and (min-width: 1440px)';
+$DESKTOP_SMALL: 'screen and (min-width: 1024px) and (max-width: 1280px)';
+
+$TABLET_WIDTH: 768px;
+$DESKTOP_WIDTH: 1024px;
+$MOBILE_TINY_WIDTH: 320px;
+$DESKTOP_LARGE_WIDTH: 1440px;
+$DESKTOP_HD_WIDTH: 1920px;
+
+// Цвета
+$white: #fffefb;
+$light: #f7f8fa;
+$gray: #eeeeee;
+$grayB4: #b4b4b4;
+$grayB9: #b0b3b9;
+$grayF2: #e9edf2;
+$gray8D: #7c838d;
+$black: #3f3f3f;
+$blue: #29b0d9;
+$dark_blue: #0083c7;
+$green: #64935f;
+$light_green: #7bae73;
+$violet: #6c5f93;
+$coral: #ff8484;
+$black27: #1d2127;
