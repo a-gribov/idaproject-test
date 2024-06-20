@@ -1,4 +1,9 @@
 export default {
+    target: 'static',
+    router: {
+      base: '/idaproject-test/'
+    },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'idaproject-test',
