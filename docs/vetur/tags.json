@@ -1,0 +1,32 @@
+{
+  "BlockAnimation": {
+    "description": "Auto imported from components/BlockAnimation.vue"
+  },
+  "BlockSort": {
+    "description": "Auto imported from components/BlockSort.vue"
+  },
+  "DeleteButton": {
+    "description": "Auto imported from components/DeleteButton.vue"
+  },
+  "MainComponent": {
+    "description": "Auto imported from components/MainComponent.vue"
+  },
+  "Form": {
+    "description": "Auto imported from components/Form/Form.vue"
+  },
+  "FormButton": {
+    "description": "Auto imported from components/Form/FormButton.vue"
+  },
+  "FormInput": {
+    "description": "Auto imported from components/Form/Input.vue"
+  },
+  "FormTextarea": {
+    "description": "Auto imported from components/Form/Textarea.vue"
+  },
+  "ProductsProductItem": {
+    "description": "Auto imported from components/Products/ProductItem.vue"
+  },
+  "ProductsList": {
+    "description": "Auto imported from components/Products/ProductsList.vue"
+  }
+}
